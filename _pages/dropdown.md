@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: others
 nav: true
 nav_order: 6
 dropdown: true
@@ -12,7 +12,9 @@ children:
     - title: publications
       permalink: /publications/
     - title: resume
-      permalink: /resume/
+      permalink: http://ipv4.download.thinkbroadband.com/5MB.zip
     - title: curriculum vitae
       permalink: /curriculum vitae/
+    - title: contact
+      permalink: /contact/
 ---
