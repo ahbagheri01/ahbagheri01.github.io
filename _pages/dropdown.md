@@ -4,7 +4,9 @@ title: others
 nav: true
 nav_order: 6
 dropdown: true
-children: 
+children:
+    - title: transcript
+      permalink: /transcript/
     - title: repositories
       permalink: /repositories/
     - title: projects
