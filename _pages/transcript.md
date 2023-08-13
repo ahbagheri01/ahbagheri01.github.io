@@ -3,7 +3,7 @@ layout: transcript
 permalink: /transcript/
 title: transcript
 cv_pdf: My_Transcript.pdf
-description:
+description: 
 nav: false
 nav_order: 3
 ---
