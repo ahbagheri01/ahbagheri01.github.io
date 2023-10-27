@@ -1,0 +1,80 @@
+    <div>
+        <ul>
+            <li>
+                <i class="fa fa-fw fa-university" aria-hidden="true"></i>
+                Computer Engineering Department <br> Sharif University of Technology
+            </li>
+            <li>
+                <a href="mailto:amirhossein.bagheri.001@gmail.com">
+                <i class="fas fa-fw fa-envelope" aria-hidden="true"></i>
+                Email
+                </a>
+            </li>
+            <li>
+                <a href="mailto:amir.bagheri@sharif.edu.com">
+                <i class="fas fa-fw fa-envelope" aria-hidden="true"></i>
+                EDU Email
+                </a>
+            </li>
+            <!-- <li>
+                <a href="https://scholar.google.com/citations?user=IaDc0OcAAAAJ">
+                <i class="ai ai-google-scholar ai-fw"></i>
+                Google Scholar
+                </a>
+            </li> -->
+            <li>
+                <a href="https://github.com/ahbagheri01">
+                <i class="fab fa-fw fa-github" aria-hidden="true"></i>
+                Github
+                </a>
+            </li>
+            <!--li>
+                <a href="https://www.linkedin.com/in/hesamasadzadeh">
+                <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>
+                LinkedIn
+                </a>
+            </li>
+            <!-- <li>
+                <a href="https://www.semanticscholar.org/author/...">
+                <i class="ai ai-semantic-scholar ai-fw" aria-hidden="true"></i>
+                Semantic Scholar
+                </a>
+            </li>
+            <!--li>
+                <a href="https://www.researchgate.net/profile/...">
+                <i class="ai ai-researchgate ai-fw" aria-hidden="true"></i>
+                ResearchGate
+                </a>
+            </li>
+            <!--li>
+                <a href="https://dblp.org/pers/hd/y/...">
+                <i class="ai ai-dblp ai-fw" aria-hidden="true"></i>
+                dblp
+                </a>
+            </li>
+            <!--li>
+                <a href="https://orcid.org/0000-...">
+                <i class="ai ai-orcid ai-fw"></i>
+                ORCID
+                </a>
+            </li>
+            <!--li>
+                <a href="https://cmu.joinhandshake.com/users/...">
+                <i class="fas fa-fw fa-handshake"></i>
+                Handshake
+                </a>
+            </li>
+            <!--li>
+                <a href="https://www.facebook.com/...">
+                <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i>
+                Facebook
+                </a>
+            </li> -->
+            <!-- <li>
+                <a href="https://twitter.com/...">
+                <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i>
+                Twitter
+                </a>
+            </li> -->
+        </ul>
+    </div>   
