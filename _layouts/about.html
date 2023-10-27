@@ -27,7 +27,17 @@ layout: default
               path=profile_image_path
               class=profile_image_class
               alt=page.profile.image
-              cache_bust=true -%}
+              cache_bust=true
+              width="400px"
+              height="400px"
+              -%}
+              <style>
+                .profile img {
+                  width: 300px !important; /* Specify the width you want, e.g., 300px */
+                  height: 250px; /* Specify the height you want, e.g., 200px */
+                }
+              </style>
+
             {% endif -%}
             {%- if page.profile.address %}
             <div class="address">
