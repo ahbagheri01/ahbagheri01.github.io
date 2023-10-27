@@ -6,11 +6,10 @@ subtitle:
 # <a href='#'>Affiliations</a>
 profile:
   align: left
-  image: prof.jpg
+  image: prof_pic2.jpg
   image_circular: true # crops the image to make it circular
   address: >   
-    <p>B.sc Student </p> 
-    <p>Computer Engineering Department </p>
+    <p>B.Sc Student @ Computer Engineering Department, </p>
     <p>Sharif University of Technology </p> 
     <div>
         <ul>
@@ -93,16 +92,12 @@ profile:
         </ul>
     </div>   
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 projects: true
 --- 
-Greetings! I'm Amirhossein Bagheri,a senior B.Sc. student in the Computer Enginner Department at Sharif University of Technology.
+Greetings! I'm Amirhossein Bagheri, a senior B.Sc. Student in the Computer Enginner Department at Sharif University of Technology.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests include Machine Learning Theory (especially Optimization, Statistical Machine Learning, and Adersarial Learning), Trustworthy & Safe AI (Fairness & Robustness, Domain Generalization, Privacy), and Generative Models, and Multi-Modal NLP.
