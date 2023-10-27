@@ -100,4 +100,4 @@ projects: true
 --- 
 Greetings! I'm Amirhossein Bagheri, a senior B.Sc. Student in the Computer Enginner Department at Sharif University of Technology.
 
-My research interests include Machine Learning Theory (especially Optimization, Statistical Machine Learning, and Adersarial Learning), Trustworthy & Safe AI (Fairness & Robustness, Domain Generalization, Privacy), and Generative Models, and Multi-Modal NLP.
+My research interests include Machine Learning Theory (especially Optimization, Statistical Machine Learning, and Adersarial Learning), Trustworthy & Safe AI (Fairness & Robustness, Domain Generalization, Privacy), Generative Models, and Multi-Modal NLP.
