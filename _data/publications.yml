@@ -1,22 +1,48 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "f-FUM: Federated Unlearning via Min-Max and f-Divergence"
+    authors: <strong>Amirhossein Bagheri*</strong>, Radmehr Karimian*, Meghdad Kurmanji, Nicholas D. Lane, and Gholamali Aminian
+    conference_short: arXiv
+    conference: "arXiv preprint arXiv:2602.06187, 2026"
+    pdf: "https://arxiv.org/pdf/2602.06187"
+    page: "https://arxiv.org/abs/2602.06187"
+    image: /assets/img/papers/f-fumunderreview.jpg
+    notes: Under Review
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Enhanced Classifier-Guided Diffusion through Information-Theoretic Regularization
+    authors: Seyed Alireza Javid, <strong>Amirhossein Bagheri</strong>, and Nuria Gonzalez-Prelcic
+    conference_short: ISIT
+    conference: "IEEE International Symposium on Information Theory (ISIT), 2026"
+    page: "https://dblp.org/rec/conf/isit/JavidBG26"
+    image: /assets/img/papers/diffusion_isit.jpg
+
+  - title: Enhancing Diffusion Model Guidance through Calibration and Regularization
+    authors: Seyed Alireza Javid, <strong>Amirhossein Bagheri</strong>, and Nuria Gonzalez-Prelcic
+    conference_short: NeurIPS-W
+    conference: "NeurIPS 2025 Workshop on Structured Probabilistic Inference & Generative Modeling, 2025"
+    pdf: "https://arxiv.org/pdf/2511.05844"
+    code: "https://github.com/ajavid34/guided-info-diffusion"
+    page: "https://neurips.cc/virtual/2025/125408"
+    image: /assets/img/papers/diffusion_workshop.jpg
+
+  - title: "f-SCRUB: Unbounded Machine Unlearning via f-Divergences"
+    authors: <strong>Amirhossein Bagheri*</strong>, Radmehr Karimian*, and Gholamali Aminian
+    conference_short: ICLR-W
+    conference: "ICLR 2025 Workshop on Navigating and Addressing Data Problems for Foundation Models, 2025"
+    page: "https://iclr.cc/virtual/2025/34438"
+    image: /assets/img/papers/fscrub.png
+
+  - title: Semi-Supervised Learning under Self-Training via f-Divergence
+    authors: Gholamali Aminian, <strong>Amirhossein Bagheri*</strong>, Radmehr Karimian*, Mahyar JafariNodeh*, and Mohammad Hossein Yassaee
+    conference_short: ICLR Tiny
+    conference: "The Second Tiny Papers Track at ICLR, 2024"
+    page: "https://dblp.org/rec/conf/iclr/AminianBKJY24"
+    image: /assets/img/papers/robust_ssl.png
+
+  - title: Robust Semi-Supervised Learning via f-Divergence and Alpha-Renyi Divergence
+    authors: Gholamali Aminian, <strong>Amirhossein Bagheri*</strong>, Mahyar JafariNodeh*, Radmehr Karimian*, and Mohammad-Hossein Yassaee
+    conference_short: ISIT
+    conference: "IEEE International Symposium on Information Theory (ISIT), 2024"
+    pdf: "https://arxiv.org/pdf/2405.00454"
+    page: "https://arxiv.org/abs/2405.00454"
+    image: /assets/img/papers/robust_ssl.png

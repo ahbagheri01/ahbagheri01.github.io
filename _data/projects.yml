@@ -1,0 +1,20 @@
+main:
+
+  - title: Foundation Models for Time Series
+    where: AIRIC, Politecnico di Milano, ongoing
+    description: Benchmarking foundation models against classical statistical methods and analyzing statistical tests and ML metrics for time-series forecasting.
+    badge: AIRIC
+    image:
+
+  - title: Online Learning in Serverless Computing
+    where: Politecnico di Milano, Dec. 2025 - May 2026
+    description: Simulation study for online hyperparameter tuning in graph-based serverless applications.
+    badge: Polimi
+    image:
+
+  - title: Enhancing Lesion Detection in Breast Mammograms through Semi-Supervised Learning
+    where: B.Sc. thesis, Sharif University of Technology, Jan. 2023 - May 2024
+    description: Weakly supervised labeling and semi-supervised segmentation for breast mammograms.
+    badge: Thesis
+    pdf: assets/files/bsc_thesis.pdf
+    image: /assets/img/papers/thesis.png
