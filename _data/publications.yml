@@ -30,14 +30,14 @@ main:
     conference_short: ICLR-W
     conference: "ICLR 2025 Workshop on Navigating and Addressing Data Problems for Foundation Models, 2025"
     page: "https://iclr.cc/virtual/2025/34438"
-    image: /assets/img/papers/fscrub.png
+    image: /assets/img/papers/f-fum-workshop.jpg
 
   - title: Semi-Supervised Learning under Self-Training via f-Divergence
     authors: Gholamali Aminian, <strong>Amirhossein Bagheri*</strong>, Radmehr Karimian*, Mahyar JafariNodeh*, and Mohammad Hossein Yassaee
     conference_short: ICLR Tiny
     conference: "The Second Tiny Papers Track at ICLR, 2024"
     page: "https://dblp.org/rec/conf/iclr/AminianBKJY24"
-    image: /assets/img/papers/robust_ssl.png
+    image: /assets/img/papers/isit-iclr workshop.png
 
   - title: Robust Semi-Supervised Learning via f-Divergence and Alpha-Renyi Divergence
     authors: Gholamali Aminian, <strong>Amirhossein Bagheri*</strong>, Mahyar JafariNodeh*, Radmehr Karimian*, and Mohammad-Hossein Yassaee
@@ -45,4 +45,4 @@ main:
     conference: "IEEE International Symposium on Information Theory (ISIT), 2024"
     pdf: "https://arxiv.org/pdf/2405.00454"
     page: "https://arxiv.org/abs/2405.00454"
-    image: /assets/img/papers/robust_ssl.png
+    image: /assets/img/papers/isit-semisupervised.png

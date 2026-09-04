@@ -31,7 +31,7 @@ In a nutshell, I am interested in **Machine Learning Theory**, with a particular
 * **[2025]** Our paper on f-SCRUB appeared at the ICLR Workshop on Data Problems for Foundation Models.
 * **[2024]** Our paper on semi-supervised learning under self-training appeared at the Tiny Papers Track at ICLR.
 * **[July 2024]** Our paper on robust semi-supervised learning appeared at ISIT 2024.
-* **[July 2024]** Graduated from Sharif University of Technology, ranked 5th among 190 undergraduate students.
+* **[July 2024]** Graduated from Sharif University of Technology.
 
 {% include_relative _includes/publications.md %}
 
