@@ -4,7 +4,8 @@ main:
     where: AIRIC, Politecnico di Milano, ongoing
     description: Benchmarking foundation models against classical statistical methods and analyzing statistical tests and ML metrics for time-series forecasting.
     badge: AIRIC
-    image:
+    presentation: assets/files/bench_fmts.pdf
+    image: /assets/img/papers/timeseries_chronos_benchmark.png
 
   - title: Online Learning in Serverless Computing
     where: Politecnico di Milano, Dec. 2025 - May 2026
