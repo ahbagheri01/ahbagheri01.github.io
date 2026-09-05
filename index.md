@@ -39,7 +39,7 @@ In a nutshell, I am interested in **Machine Learning Theory**, with a particular
 
 ## Work Experience
 
-* **Machine Learning Engineer**, RSO Company, Tehran, Oct. 2024 - Sept. 2025.
+* **Machine Learning Engineer**, RSO Company, Tehran, Jul. 2024 - Oct. 2025.
   Deployed LLMs in production, worked on large-scale graph data, and developed MLOps pipelines for training, deployment, and monitoring.
 * **Lung X-ray Segmentation Research Intern**, CommaMed Startup, Science and Technology Park, Sharif University of Technology, June 2022 - Sept. 2022.
   Worked on ResUNet-based lung segmentation and semi-supervised methods for robustness to distribution shift.
