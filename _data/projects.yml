@@ -17,6 +17,6 @@ main:
   - title: Enhancing Lesion Detection in Breast Mammograms through Semi-Supervised Learning
     where: B.Sc. thesis, Sharif University of Technology, Jan. 2023 - May 2024
     description: Weakly supervised labeling and semi-supervised segmentation for breast mammograms.
-    badge: Thesis
+    badge: BS. Thesis
     pdf: assets/files/bsc_thesis.pdf
     image: /assets/img/papers/thesis.png
