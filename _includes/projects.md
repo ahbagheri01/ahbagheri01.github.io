@@ -16,8 +16,8 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      {% if link.page or link.pdf or link.presentation %}
-      <div class="title"><a href="{{ link.page | default: link.pdf | default: link.presentation }}">{{ link.title }}</a></div>
+      {% if link.page or link.code or link.pdf or link.presentation %}
+      <div class="title"><a href="{{ link.page | default: link.code | default: link.pdf | default: link.presentation }}">{{ link.title }}</a></div>
       {% else %}
       <div class="title">{{ link.title }}</div>
       {% endif %}
@@ -29,6 +29,9 @@
       {% endif %}
       {% if link.presentation %}
       <a href="{{ link.presentation }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Presentation</a>
+      {% endif %}
+      {% if link.code %}
+      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
       {% if link.page %}
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
