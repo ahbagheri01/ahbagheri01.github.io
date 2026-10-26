@@ -37,7 +37,7 @@ main:
     conference_short: ICLR Tiny
     conference: "The Second Tiny Papers Track at ICLR, 2024"
     page: "https://dblp.org/rec/conf/iclr/AminianBKJY24"
-    image: /assets/img/papers/isit-iclr workshop.png
+    image: /assets/img/papers/isit-iclr-workshop.jpg
 
   - title: Robust Semi-Supervised Learning via f-Divergence and Alpha-Renyi Divergence
     authors: Gholamali Aminian, <strong>Amirhossein Bagheri*</strong>, Mahyar JafariNodeh*, Radmehr Karimian*, and Mohammad-Hossein Yassaee
@@ -45,4 +45,4 @@ main:
     conference: "IEEE International Symposium on Information Theory (ISIT), 2024"
     pdf: "https://arxiv.org/pdf/2405.00454"
     page: "https://arxiv.org/abs/2405.00454"
-    image: /assets/img/papers/isit-semisupervised.png
+    image: /assets/img/papers/isit-semisupervised.jpg

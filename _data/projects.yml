@@ -6,14 +6,14 @@ main:
     badge: AIRIC
     presentation: assets/files/bench_fmts.pdf
     code: https://github.com/ahbagheri01/chronos-forecasting/tree/main/pmds
-    image: /assets/img/papers/timeseries_chronos_benchmark.png
+    image: /assets/img/papers/timeseries_chronos_benchmark.jpg
 
   - title: Online Learning in Serverless Computing
     where: Politecnico di Milano, Dec. 2025 - May 2026
     description: Event-driven DAG simulation for NSGD-based serverless autoscaling with shared resource constraints and end-to-end workflow metrics.
     badge: Polimi
     code: https://github.com/Wamuhindo/NSGD/tree/DAG/AutoscalerFaasScalarVectorial
-    image: /assets/img/papers/serverlessautoscale.png
+    image: /assets/img/papers/serverlessautoscale.jpg
 
   - title: Enhancing Lesion Detection in Breast Mammograms through Semi-Supervised Learning
     where: B.Sc. thesis, Sharif University of Technology, Jan. 2023 - May 2024
