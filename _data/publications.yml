@@ -7,6 +7,7 @@ main:
     pdf: "https://arxiv.org/pdf/2602.06187"
     page: "https://arxiv.org/abs/2602.06187"
     image: /assets/img/papers/f-fumunderreview.jpg
+    bibtex: assets/files/bibtex/bagheri2026ffum.bib
     notes: Under Review
 
   - title: Enhanced Classifier-Guided Diffusion through Information-Theoretic Regularization
@@ -15,6 +16,7 @@ main:
     conference: "IEEE International Symposium on Information Theory (ISIT), 2026"
     page: "https://dblp.org/rec/conf/isit/JavidBG26"
     image: /assets/img/papers/diffusion_isit.jpg
+    bibtex: assets/files/bibtex/javid2026isit.bib
 
   - title: Enhancing Diffusion Model Guidance through Calibration and Regularization
     authors: Seyed Alireza Javid, <strong>Amirhossein Bagheri</strong>, and Nuria Gonzalez-Prelcic
@@ -24,6 +26,7 @@ main:
     code: "https://github.com/ajavid34/guided-info-diffusion"
     page: "https://neurips.cc/virtual/2025/125408"
     image: /assets/img/papers/diffusion_workshop.jpg
+    bibtex: assets/files/bibtex/javid2025neuripsw.bib
 
   - title: "f-SCRUB: Unbounded Machine Unlearning via f-Divergences"
     authors: <strong>Amirhossein Bagheri*</strong>, Radmehr Karimian*, and Gholamali Aminian
@@ -31,6 +34,7 @@ main:
     conference: "ICLR 2025 Workshop on Navigating and Addressing Data Problems for Foundation Models, 2025"
     page: "https://iclr.cc/virtual/2025/34438"
     image: /assets/img/papers/f-fum-workshop.jpg
+    bibtex: assets/files/bibtex/bagheri2025fscrub.bib
 
   - title: Semi-Supervised Learning under Self-Training via f-Divergence
     authors: Gholamali Aminian, <strong>Amirhossein Bagheri*</strong>, Radmehr Karimian*, Mahyar JafariNodeh*, and Mohammad Hossein Yassaee
@@ -38,6 +42,7 @@ main:
     conference: "The Second Tiny Papers Track at ICLR, 2024"
     page: "https://dblp.org/rec/conf/iclr/AminianBKJY24"
     image: /assets/img/papers/isit-iclr-workshop.jpg
+    bibtex: assets/files/bibtex/aminian2024iclrtiny.bib
 
   - title: Robust Semi-Supervised Learning via f-Divergence and Alpha-Renyi Divergence
     authors: Gholamali Aminian, <strong>Amirhossein Bagheri*</strong>, Mahyar JafariNodeh*, Radmehr Karimian*, and Mohammad-Hossein Yassaee
@@ -46,3 +51,4 @@ main:
     pdf: "https://arxiv.org/pdf/2405.00454"
     page: "https://arxiv.org/abs/2405.00454"
     image: /assets/img/papers/isit-semisupervised.jpg
+    bibtex: assets/files/bibtex/aminian2024isit.bib

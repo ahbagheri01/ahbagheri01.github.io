@@ -4,17 +4,13 @@ layout: homepage
 
 I am an M.Sc. student in Computer Science & Engineering at [Politecnico di Milano](https://www.polimi.it/). Before that, I received my B.Sc. in Computer Engineering from [Sharif University of Technology](https://en.sharif.edu/), where I worked on semi-supervised learning for medical image segmentation.
 
-My research interests are in **machine learning theory**, especially **reinforcement learning** and **optimization**. I am also interested in **robustness** and **robotics**.
-
-I have worked on machine unlearning, robust semi-supervised learning, and diffusion model guidance, with collaborations involving Sharif University of Technology and The Alan Turing Institute.
-
-## Research Interests
-
-In a nutshell, I am interested in **Machine Learning Theory**, with a particular focus on:
+My research interests are in **machine learning theory**, with a particular focus on:
 
 * **Reinforcement Learning & Optimization:** theoretical foundations for learning and decision making.
 * **Robustness:** robust learning, machine unlearning, and semi-supervised learning under noisy pseudo-labels.
 * **Robotics:** learning-based methods for reliable autonomous systems.
+
+I have worked on machine unlearning, robust semi-supervised learning, and diffusion model guidance, in collaboration with Sharif University of Technology and The Alan Turing Institute.
 
 ## Education
 
