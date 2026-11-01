@@ -4,10 +4,9 @@ layout: homepage
 
 I am an M.Sc. student in Computer Science & Engineering at [Politecnico di Milano](https://www.polimi.it/). Before that, I received my B.Sc. in Computer Engineering from [Sharif University of Technology](https://en.sharif.edu/), where I worked on semi-supervised learning for medical image segmentation.
 
-My research interests are:
+My research lies at the intersection of **machine learning theory and robust statistics for safe and robust AI** and **reinforcement learning and sequential decision-making**. AI agents now make sequences of decisions with real impact, from writing code to acting in the physical world, and I want those decisions to be reliable. So far, I have worked on robust learning, machine unlearning, and semi-supervised learning under noisy pseudo-labels.
 
-* **ML Theory & Robust Statistics for Safe and Robust AI:** robust learning, machine unlearning, and semi-supervised learning under noisy pseudo-labels.
-* **Reinforcement Learning & Sequential Decision-Making:** learning agents whose decisions stay reliable and safe.
+In reinforcement learning, I am interested in how agents can learn from fewer samples, and in analyzing when and why their learning can be trusted, including whether their measured performance is statistically meaningful. Looking ahead, I want to carry these questions toward robotics and multi-agent systems: how can agents that act in the physical world, and alongside each other, stay safe and aligned with humans?
 
 I have worked on machine unlearning, robust semi-supervised learning, and diffusion model guidance, in collaboration with Sharif University of Technology and The Alan Turing Institute.
 
