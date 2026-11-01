@@ -6,7 +6,7 @@ I am an M.Sc. student in Computer Science & Engineering at [Politecnico di Milan
 
 My research interests lie at the intersection of two areas:
 
-**Machine Learning Theory & Robust Statistics for Safe and Robust AI.** AI agents now make decisions with real impact, from writing code to acting in the physical world. I am interested in ML theory and robust statistics as the tools that let us trust them. How does learning behave under noise, corruption, and adversaries? When is a reported result statistically meaningful?
+**Machine Learning Theory & Robust Statistics for Safe and Robust AI.** AI agents now make decisions with real impact, from writing code to acting in the physical world. I am interested in ML theory and robust statistics as tools to let us trust them. How does learning behave under noise, corruption, and adversaries? When is a reported result statistically meaningful?
 
 **Reinforcement Learning & Sequential Decision-Making.** How can reinforcement learning become more sample efficient? When and why does it work? Looking ahead, I want to carry these questions toward robotics and multi-agent systems: how can agents that act in the physical world, and alongside each other, stay safe and aligned with humans?
 
