@@ -9,9 +9,6 @@ My research interests lie at the intersection of two areas:
 **Machine Learning Theory & Robust Statistics for Safe and Robust AI.** AI agents now make decisions with real impact, from writing code to acting in the physical world. I am interested in the theory and statistics that let us trust them: how learning behaves under noise, corruption, and adversaries, and when a reported result is statistically meaningful.
 
 **Reinforcement Learning & Sequential Decision-Making.** I am interested in making reinforcement learning more sample efficient and in analyzing when and why it works. Looking ahead, I want to carry these questions toward robotics and multi-agent systems, where agents act in the physical world and alongside each other, and must stay safe and aligned with humans.
-
-I have worked on machine unlearning, robust semi-supervised learning, and diffusion model guidance, in collaboration with Sharif University of Technology and The Alan Turing Institute.
-
 ## Education
 
 * M.Sc. in Computer Science & Engineering, [Politecnico di Milano](https://www.polimi.it/), 2025 - present.
